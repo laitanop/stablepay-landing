@@ -27,34 +27,32 @@ export default () => (
       </TextBlock>
       <TextBlockImg
         id="perks"
-        title="We have the tools to help you suceed"
-        subtitle="Startup is perfect for helping to to start and grow your business. As
-          you begin to gain new clients and expand you will see the benefits of
-          a super-fast Gatsby website"
+        title="StablePay a social payment app for DeFI built in Layer 2."
+        subtitle=""
       >
         <div className="flex-container trio-block">
           <Perk
             img={perk1Img}
             alt="Super fast speed increases"
             title="Speedy"
-            content="Super-fast response times ensure your business is not affected"
+            content="Super-fast"
           />
           <Perk
             img={perk2Img}
             alt="Great savings to be made"
             title="Affordable"
-            content="A choice of packages to suit every business type and size"
+            content="Low cost transactions fee"
           />
           <Perk
             img={perk3Img}
-            alt="Super fast speed increases"
-            title="Friendly"
-            content="Advisors who are available 24/7, all with exprt knowledge"
+            alt="Easily split bill with friends "
+            title="Social"
+            content="Easily split bill with friends from your address book"
           />
         </div>
       </TextBlockImg>
       <Packages
-        title="Our Packages"
+        title="Supported tokens"
         para="Choose the perfect solution for you. With benefits to suit all budgets Startup can offer amazing value and expert advice"
       >
         <IconContext.Provider
