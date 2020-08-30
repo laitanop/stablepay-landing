@@ -13,6 +13,7 @@ import { Link } from "react-scroll"
 import perk1Img from "../images/speed.svg"
 import perk2Img from "../images/piggy-bank.svg"
 import perk3Img from "../images/friendly-staff.svg"
+import makerImg from "../images/maker.svg"
 
 import { IconContext } from "react-icons"
 import { MdDone, MdClear } from "react-icons/md"
@@ -21,14 +22,8 @@ export default () => (
   <>
     <Layout>
       <Banner />
-      <TextBlock
-        id="about"
-        title="Developing a new business is never easy, but Startup is here to help"
-        paragraph="With a super-fast Gatsby powered website you have the perfect platform to get your idea off the ground. Its the perfect template to help turn your idea into a reality."
-      >
-        <Link to="perks" smooth={true} duration={500}>
-          <Button label="Tell Me More" cta="Tell Me More!" />
-        </Link>
+      <TextBlock id="about" title="Supported by ">
+        <img src={makerImg} alt="MakerDAO" height="150" width="150" />
       </TextBlock>
       <TextBlockImg
         id="perks"
