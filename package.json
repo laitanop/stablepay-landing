@@ -32,6 +32,7 @@
     "react-intersection-observer": "^8.26.2",
     "react-scroll": "^1.8.1",
     "react-sticky": "^6.0.3",
+    "react-typeform-embed": "^0.2.1",
     "styled-components": "^4.4.1",
     "typeface-gothic-a1": "0.0.61"
   },
