@@ -14,6 +14,7 @@ import perk1Img from "../images/speed.svg"
 import perk2Img from "../images/piggy-bank.svg"
 import perk3Img from "../images/friendly-staff.svg"
 import makerImg from "../images/maker.svg"
+import tokens from "../images/tokens.svg"
 
 import { IconContext } from "react-icons"
 import { MdDone, MdClear } from "react-icons/md"
@@ -52,8 +53,8 @@ export default () => (
         </div>
       </TextBlockImg>
       <Packages
-        title="Supported tokens"
-        para="Choose the perfect solution for you. With benefits to suit all budgets Startup can offer amazing value and expert advice"
+        title="Featured"
+        para="Earn rewards when making instant peer to peer payments"
       >
         <IconContext.Provider
           value={{
@@ -62,29 +63,29 @@ export default () => (
             style: { verticalAlign: "middle", marginRight: "5px" },
           }}
         >
-          <Package title="Standard">
+          <Package title="Our solutions">
             <ul>
               <li>
-                <MdDone />1 User
+                <MdDone />
+                Rewards on transfers.
               </li>
               <li>
                 <MdDone />
-                1GB Storage
+                Get your transfers and donations in yield earning tokens.
               </li>
-              <li className="linethrough">
-                <MdClear color="red" />
-                Dedicated Advisor
-              </li>
-              <li className="linethrough">
-                <MdClear color="red" />
-                24/7 Support
+              <li>
+                <MdDone />
+                No matter what token they send you, you will receive payment in
+                the token of your choice.
               </li>
             </ul>
             <Link to="contact" smooth={true} duration={500}>
-              <Button label="I want this" cta="I want this!" />
+              <Button label="Join to our waiting list" cta="Join list!" />
             </Link>
           </Package>
-          <Package title="Hyper" active={true}>
+          <br />
+          <Package title="DeFi composability in Layer 2" active={true}>
+            <img src={tokens} alt="tokens" />
             <ul>
               <li>
                 <MdDone />
@@ -132,11 +133,11 @@ export default () => (
           </Package>
         </IconContext.Provider>
       </Packages>
-      <Contact
+      {/* <Contact
         id="contact"
         title="Contact Startup today and see how we can help your business grow"
         subtitle="Every second counts when you're looking to get your new business started. Drop Startup a message and one of our representatives will be in contact"
-      />
+      /> */}
     </Layout>
   </>
 )
