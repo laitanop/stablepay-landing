@@ -38,7 +38,7 @@ const Banner = () => {
             variants={variants}
             transition={{ ease: "easeOut", duration: 0.8, delay: 1 }}
           >
-            It's time to make your business <span>stand out</span>
+            A social crypto <span>payment</span>
           </motion.h1>
           <motion.p
             initial="hidden"
@@ -46,17 +46,19 @@ const Banner = () => {
             variants={variants}
             transition={{ ease: "easeOut", duration: 0.8, delay: 1.5 }}
           >
-            Startup is here to help you achieve your business and personal
-            goals, all through a stylish theme
+            The cheapest and fastest way to transfer money to anyone in the
+            world securely.
           </motion.p>
+
+          <a href="/join">
+            <Button cta="Join to our waiting list" />
+          </a>
+
+          <br />
+
           <Link to="about" smooth={true} duration={500}>
             <span className="sr-only">Jump to about</span>
-            <Button
-              cta="Learn More"
-              label="Banner Learn More"
-              anchor={true}
-              href="linking"
-            />
+            <span style={{ cursor: "pointer" }}> Learn More</span>
           </Link>
         </div>
       </BackgroundImage>
@@ -91,6 +93,7 @@ const BannerWrapper = styled.section`
         line-height: 1.2;
 
         span {
+
           background: -webkit-linear-gradient(45deg, #f441a5, #03a9f4);
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
