@@ -108,7 +108,7 @@ export default () => (
               <Button label="I want this" cta="I want this!" />
             </Link>
           </Package>
-          <Package title="Super">
+          <Package title="Text here">
             <ul>
               <li>
                 <MdDone />
@@ -123,7 +123,7 @@ export default () => (
                 text block
               </li>
               <li className="linethrough">
-                <MdClear color="red" />
+                <MdClear />
                 text block
               </li>
             </ul>
