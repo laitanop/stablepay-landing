@@ -89,19 +89,19 @@ export default () => (
             <ul>
               <li>
                 <MdDone />
-                24/7 Support
+                text block
               </li>
               <li>
                 <MdDone />
-                Dedicated Advisor
+                text block
               </li>
               <li>
                 <MdDone />
-                Unlimited Storage
+                text block
               </li>
               <li>
                 <MdDone />
-                Unlimited Users
+                text block
               </li>
             </ul>
             <Link to="contact" smooth={true} duration={500}>
@@ -112,19 +112,19 @@ export default () => (
             <ul>
               <li>
                 <MdDone />
-                10 Users
+                text block
               </li>
               <li>
                 <MdDone />
-                500GB Storage
+                text block
               </li>
               <li>
                 <MdDone />
-                Advice Support
+                text block
               </li>
               <li className="linethrough">
                 <MdClear color="red" />
-                Dedicated Advisor
+                text block
               </li>
             </ul>
             <Link to="contact" smooth={true} duration={500}>
