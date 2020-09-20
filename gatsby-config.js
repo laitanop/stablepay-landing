@@ -8,13 +8,13 @@ const path = require(`path`)
 
 module.exports = {
   siteMetadata: {
-    title: "Startup",
-    titleTemplate: "%s | Helping startups get started",
-    description: "A simple one-page site for new businesses that uses GatsbyJS",
-    author: "Morgan Baker",
-    image: "/yellow-metal-design-decoration.jpg",
-    siteUrl: "https://www.morganbaker.dev",
-    twitterUsername: "@twitter",
+    title: "StablePay",
+    titleTemplate: "%s |Open source crypto social payment protocol",
+    description: "Open source crypto social payment protocol",
+    author: "Stablepay",
+    image: "/metaTagImageLogo.svg",
+    siteUrl: "https://twitter.com/StablePay",
+    twitterUsername: "@stablepay",
   },
   plugins: [
     {
