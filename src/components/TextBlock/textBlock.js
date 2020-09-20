@@ -38,7 +38,7 @@ const TextBlock = ({ title, paragraph, children, id }) => {
 }
 
 const TextBlockWrapper = styled.section`
-  background: linear-gradient(45deg, #060c21, #0d0139);
+  background: #05041a;
   color: #fff;
   text-align: left;
   padding: 60px 20px;

@@ -1,39 +1,39 @@
-<svg width="327" height="279" viewBox="0 0 327 279" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="764" height="58" viewBox="0 0 764 58" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g filter="url(#filter0_d)">
-<rect x="29" y="25" width="50" height="50" fill="url(#pattern0)"/>
+<rect x="4" width="50" height="50" fill="url(#pattern0)"/>
 </g>
 <g filter="url(#filter1_d)">
-<rect x="60" y="108" width="50" height="50" fill="url(#pattern1)"/>
+<rect x="564" width="50" height="50" fill="url(#pattern1)"/>
 </g>
 <g filter="url(#filter2_d)">
-<rect x="118" width="50" height="50" fill="url(#pattern2)"/>
+<rect x="75" width="50" height="50" fill="url(#pattern2)"/>
 </g>
 <g filter="url(#filter3_d)">
-<rect x="143" y="143" width="50" height="50" fill="url(#pattern3)"/>
+<rect x="493" width="50" height="50" fill="url(#pattern3)"/>
 </g>
 <g filter="url(#filter4_d)">
-<rect x="218" y="7" width="50" height="50" fill="url(#pattern4)"/>
+<rect x="144" width="50" height="50" fill="url(#pattern4)"/>
 </g>
 <g filter="url(#filter5_d)">
-<rect x="232" y="100" width="50" height="50" fill="url(#pattern5)"/>
+<rect x="284" width="50" height="50" fill="url(#pattern5)"/>
 </g>
 <g filter="url(#filter6_d)">
-<rect x="143" y="72" width="50" height="50" fill="url(#pattern6)"/>
+<rect x="215" width="50" height="50" fill="url(#pattern6)"/>
 </g>
 <g filter="url(#filter7_d)">
-<rect x="73" y="221" width="50" height="50" fill="url(#pattern7)"/>
+<rect x="710" width="50" height="50" fill="url(#pattern7)"/>
 </g>
 <g filter="url(#filter8_d)">
-<rect x="182" y="208" width="50" height="50" fill="url(#pattern8)"/>
+<rect x="426" width="50" height="50" fill="url(#pattern8)"/>
 </g>
 <g filter="url(#filter9_d)">
-<rect x="4" y="158" width="50" height="50" fill="url(#pattern9)"/>
+<rect x="640" width="50" height="50" fill="url(#pattern9)"/>
 </g>
 <g filter="url(#filter10_d)">
-<rect x="273" y="168" width="50" height="50" fill="url(#pattern10)"/>
+<rect x="351" width="50" height="50" fill="url(#pattern10)"/>
 </g>
 <defs>
-<filter id="filter0_d" x="25" y="25" width="58" height="58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d" x="0" y="0" width="58" height="58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
 <feOffset dy="4"/>
@@ -45,7 +45,7 @@
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0" transform="scale(0.0005)"/>
 </pattern>
-<filter id="filter1_d" x="56" y="108" width="58" height="58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter1_d" x="560" y="0" width="58" height="58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
 <feOffset dy="4"/>
@@ -57,7 +57,7 @@
 <pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image1" transform="scale(0.004)"/>
 </pattern>
-<filter id="filter2_d" x="114" y="0" width="58" height="58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter2_d" x="71" y="0" width="58" height="58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
 <feOffset dy="4"/>
@@ -69,7 +69,7 @@
 <pattern id="pattern2" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image2" transform="scale(0.004)"/>
 </pattern>
-<filter id="filter3_d" x="139" y="143" width="58" height="58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter3_d" x="489" y="0" width="58" height="58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
 <feOffset dy="4"/>
@@ -81,7 +81,7 @@
 <pattern id="pattern3" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image3" transform="scale(0.004)"/>
 </pattern>
-<filter id="filter4_d" x="214" y="7" width="58" height="58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter4_d" x="140" y="0" width="58" height="58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
 <feOffset dy="4"/>
@@ -93,7 +93,7 @@
 <pattern id="pattern4" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image4" transform="scale(0.004)"/>
 </pattern>
-<filter id="filter5_d" x="228" y="100" width="58" height="58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter5_d" x="280" y="0" width="58" height="58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
 <feOffset dy="4"/>
@@ -105,7 +105,7 @@
 <pattern id="pattern5" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image5" transform="scale(0.004)"/>
 </pattern>
-<filter id="filter6_d" x="139" y="72" width="58" height="58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter6_d" x="211" y="0" width="58" height="58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
 <feOffset dy="4"/>
@@ -117,7 +117,7 @@
 <pattern id="pattern6" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image6" transform="scale(0.00520833)"/>
 </pattern>
-<filter id="filter7_d" x="69" y="221" width="58" height="58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter7_d" x="706" y="0" width="58" height="58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
 <feOffset dy="4"/>
@@ -129,7 +129,7 @@
 <pattern id="pattern7" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image7" transform="scale(0.02)"/>
 </pattern>
-<filter id="filter8_d" x="178" y="208" width="58" height="58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter8_d" x="422" y="0" width="58" height="58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
 <feOffset dy="4"/>
@@ -141,7 +141,7 @@
 <pattern id="pattern8" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image8" transform="scale(0.02)"/>
 </pattern>
-<filter id="filter9_d" x="0" y="158" width="58" height="58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter9_d" x="636" y="0" width="58" height="58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
 <feOffset dy="4"/>
@@ -153,7 +153,7 @@
 <pattern id="pattern9" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image9" transform="scale(0.02)"/>
 </pattern>
-<filter id="filter10_d" x="269" y="168" width="58" height="58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter10_d" x="347" y="0" width="58" height="58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
 <feOffset dy="4"/>

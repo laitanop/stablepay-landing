@@ -27,7 +27,7 @@ const Perk = ({ img, alt, title, content }) => {
       transition={{ ease: "easeOut", duration: 1.25, delay: 0.35 }}
     >
       <PerkWrapper className="perk">
-        <img src={img} alt={alt} />
+        <img src={img} alt={alt} width="50px" height="50px" />
         <h3>{title}</h3>
         <p>{content}</p>
       </PerkWrapper>

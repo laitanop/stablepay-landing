@@ -16,6 +16,7 @@ const PackageWrapper = styled.article`
   position: relative;
   z-index: 1;
   width: 100%;
+
   max-width: 350px;
   margin-bottom: 3rem;
 
@@ -25,6 +26,7 @@ const PackageWrapper = styled.article`
   }
 
   .content {
+    height: 350px;
     background: #051342;
     color: #fff;
     text-align: center;

@@ -38,7 +38,7 @@ const Banner = () => {
             variants={variants}
             transition={{ ease: "easeOut", duration: 0.8, delay: 1 }}
           >
-            A social crypto <span>payment</span>
+            A <span>social</span> crypto payment Protocol.
           </motion.h1>
           <motion.p
             initial="hidden"
@@ -46,8 +46,10 @@ const Banner = () => {
             variants={variants}
             transition={{ ease: "easeOut", duration: 0.8, delay: 1.5 }}
           >
-            The cheapest and fastest way to transfer money to anyone in the
-            world securely.
+            StablePay is an open source and non-custodial layer 2 protocol
+            enabling split bills, make instant payments, earn rewards and
+            yields, send & receive money in your desired Crypto Tokens in
+            Genuine Conversion Rate... Everything in one Platform.
           </motion.p>
 
           <a href="/join">
