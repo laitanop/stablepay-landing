@@ -94,11 +94,12 @@ export default () => (
         <img src={tokens} alt="tokens" width="350" />
       </TextBlock>
 
-      {/* <Contact
+      <Contact
         id="contact"
-        title="Contact Startup today and see how we can help your business grow"
-        subtitle="Every second counts when you're looking to get your new business started. Drop Startup a message and one of our representatives will be in contact"
-      /> */}
+        title="Get Notified when Platform is Open."
+        subtitle="Join our generously growing community of 104,074. (always
+          updating number) - currently, we're on our way. Beta will be live soon"
+      />
     </Layout>
   </>
 )
