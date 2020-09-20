@@ -6,14 +6,15 @@ const Footer = () => {
   return (
     <FooterWrapper>
       <div className="credit">
-        Designed & developed by{" "}
+        @ 2020
         <a
-          href="http://www.morganbaker.dev"
+          href="https://stablepay.io/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Morgan
+          &nbsp; StablePay,&nbsp;
         </a>
+        all rights reserved.
       </div>
       {socialIcons.map((item, index) => {
         return (
