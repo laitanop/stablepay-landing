@@ -10,7 +10,7 @@ const Contact = ({ title, subtitle, id }) => {
         <p>{subtitle}</p>
 
         <a href="/join">
-          <Button cta="Join list" />
+          <Button cta="Get Early access" />
         </a>
       </div>
     </ContactWrapper>

@@ -38,7 +38,7 @@ const Banner = () => {
             variants={variants}
             transition={{ ease: "easeOut", duration: 0.8, delay: 1 }}
           >
-            A <span>social</span> crypto payment Protocol.
+            <span>StablePay.</span> A social crypto payment Protocol.
           </motion.h1>
           <motion.p
             initial="hidden"
@@ -53,7 +53,7 @@ const Banner = () => {
           </motion.p>
 
           <a href="/join">
-            <Button cta="Join to our waiting list" />
+            <Button cta="Get Early access" />
           </a>
 
           <br />
