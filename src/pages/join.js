@@ -10,7 +10,7 @@ const Join = () => {
         <Button cta="back to StablePay" />
       </a>
 
-      <ReactTypeformEmbed url="https://stablepay.typeform.com/to/ndNA9p" />
+      <ReactTypeformEmbed url="https://stablepay.typeform.com/to/Owk8khe6" />
     </div>
   )
 }
