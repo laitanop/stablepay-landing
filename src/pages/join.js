@@ -5,9 +5,9 @@ import Button from "../components/Button/button"
 
 const Join = () => {
   return (
-    <div>
+    <div style={{ margin: 20 }}>
       <a href="/">
-        <Button cta="back to StablePay" />
+        <Button cta="back" />
       </a>
 
       <ReactTypeformEmbed url="https://stablepay.typeform.com/to/Owk8khe6" />

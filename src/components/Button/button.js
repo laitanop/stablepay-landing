@@ -29,14 +29,14 @@ const ButtonWrapper = styled.button`
   height: 50px;
   text-align: center;
   line-height: 50px;
-  color: #fff;
-  font-size: 0.85rem;
+  color: #070b3f;
+  font-size: 0.95rem;
   letter-spacing: 0.25rem;
   text-transform: uppercase;
   text-decoration: none;
   box-sizing: border-box;
-
-  background: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
+  font-weight: bolder;
+  background: #7c85ff;
   background-size: 400%;
   border-radius: 30px;
   border: none;
